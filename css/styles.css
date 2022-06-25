@@ -23,12 +23,11 @@ img {
 /* Nazarii Shogi start*/
 .shogi {
   font-family: roboto, sans-serif;
-}
-
-.shogi .block {
   width: 1000px;
-  outline: tomato;
+  outline: 1px solid tomato;
   padding: 10px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .shogi .title {
