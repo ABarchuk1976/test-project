@@ -19,3 +19,12 @@ img {
   max-width: 100%;
   height: auto;
 }
+
+/* Yana */
+.pic {
+  background-color: rgb(213, 242, 242);
+  border: 2px solid rgb(58, 82, 53);
+  border-radius: 4px;
+  padding: 10px;
+    
+}
