@@ -19,3 +19,35 @@ img {
   max-width: 100%;
   height: auto;
 }
+
+.dima {
+  width: 1200px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin: 0 auto;
+}
+
+.dima .list {
+  display: flex;
+  justify-content: space-between;
+}
+
+.dima .title {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.dima .text {
+  margin-bottom: 20px;
+}
+
+.dima .item {
+  padding: 10px;
+  background-color: yellow;
+  border: 2px solid black;
+}
+
+.dima .item:not(:last-child) {
+  margin-right: 20px;
+  
+}
