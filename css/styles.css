@@ -19,3 +19,21 @@ img {
   max-width: 100%;
   height: auto;
 }
+
+/* Nazarii Shogi start*/
+.shogi {
+  font-family: roboto, sans-serif;
+}
+.shogi .title {
+  font-size: 30px;
+  font-weight: 700;
+  color: black;
+}
+
+.shogi .text {
+  font-size: 15px;
+  font-weight: 400;
+  color: gray;
+}
+
+/* Nazarii shogi end */
