@@ -235,3 +235,21 @@ img {
   font-style: italic;
 }
 /* andrii */
+
+/* vova */
+.vova-heading {
+  
+  margin-left: 150px;
+}
+.vova-buttons {
+  display: flex;
+  
+}
+.vova-button {
+width: max-content;
+  background-color: aqua;
+  color: purple;
+  margin-right: 50px;
+  border-color: lime;
+  border-radius: 25px;
+}
