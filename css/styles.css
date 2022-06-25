@@ -21,6 +21,16 @@ img {
 }
 
 
+/* Yana */
+.pic {
+  width: 380px;
+  background-color: rgb(213, 242, 242);
+  border: 2px solid rgb(58, 82, 53);
+  border-radius: 4px;
+  padding: 10px;
+
+}
+
 /* liosha */
 
 .gus {
@@ -155,4 +165,3 @@ border-color: yellow;
   font-style: italic;
 }
 /* andrii */
-
