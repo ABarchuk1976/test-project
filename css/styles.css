@@ -20,6 +20,38 @@ img {
   height: auto;
 }
 
+
+/* Nazarii Shogi start*/
+.shogi {
+  font-family: roboto, sans-serif;
+  width: 1000px;
+  outline: 1px solid tomato;
+  padding: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.shogi .title {
+  font-size: 30px;
+  font-weight: 700;
+  color: black;
+
+  margin-bottom: 20px;
+}
+
+.shogi .img {
+  margin-bottom: 10px;
+}
+
+.shogi .text {
+  font-size: 15px;
+  font-weight: 400;
+  color: gray;
+  margin-bottom: 10px;
+}
+
+/* Nazarii shogi end */
+
 /* serhii */
 .container {
   display: flex;
@@ -97,3 +129,4 @@ border-color: yellow;
   font-style: italic;
 }
 /* andrii */
+
