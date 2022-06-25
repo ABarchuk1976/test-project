@@ -20,6 +20,7 @@ img {
   height: auto;
 }
 
+
 /* Nazarii Shogi start*/
 .shogi {
   font-family: roboto, sans-serif;
@@ -50,3 +51,82 @@ img {
 }
 
 /* Nazarii shogi end */
+
+/* serhii */
+.container {
+  display: flex;
+  flex-direction: column;
+  width: 1200;
+  padding: 0 15px;
+}
+.copyright {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  font-size: 16px;
+  line-height: 1.5;
+  
+  border-top: 1px solid #000;
+
+  color: #8F95A5;
+}
+.hero-title {
+  text-align: center;
+  font-weight: 600;
+    font-size: 64px;
+    line-height: 1.25;
+    color: #000000;
+}
+.item {
+  padding: 15px;
+  margin: 2px;
+  background: #F3EBFE;
+  text-align: center;
+  
+    font-size: 24px;
+    line-height: 1.5;
+  
+    color: tomato;
+
+}
+/* serhii */
+
+
+
+.section-anton { 
+  width: 1440px;
+  display: inline-block;
+  margin: 0px auto;
+  text-align: center;
+ }
+
+.button-pro { 
+  padding: 10px;
+  color: rgb(66, 49, 224);
+  background-color: yellow;
+  border-radius: 4px;
+  border-color: rgb(66, 49, 224);
+  cursor: pointer;
+}
+
+.button-pro:hover,
+.button-pro:focus{
+color: yellow;
+background-color: rgb(66, 49, 224);
+border-color: yellow;
+}
+
+.link-ira:hover {
+  color: brown;
+}
+
+/* andrii */
+.andrii {
+  background-color: violet;
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: 500;
+  font-style: italic;
+}
+/* andrii */
+
