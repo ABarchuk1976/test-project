@@ -24,16 +24,30 @@ img {
 .shogi {
   font-family: roboto, sans-serif;
 }
+
+.shogi .block {
+  width: 1000px;
+  outline: tomato;
+  padding: 10px;
+}
+
 .shogi .title {
   font-size: 30px;
   font-weight: 700;
   color: black;
+
+  margin-bottom: 20px;
+}
+
+.shogi .img {
+  margin-bottom: 10px;
 }
 
 .shogi .text {
   font-size: 15px;
   font-weight: 400;
   color: gray;
+  margin-bottom: 10px;
 }
 
 /* Nazarii shogi end */
