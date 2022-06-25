@@ -20,7 +20,6 @@ img {
   height: auto;
 }
 
-
 .dima {
   width: 1200px;
   padding-left: 15px;
@@ -50,9 +49,7 @@ img {
 
 .dima .item:not(:last-child) {
   margin-right: 20px;
-  
 }
-
 
 .vlad-section .wrap {
   width: 30%;
@@ -78,7 +75,6 @@ img {
   border: 2px solid rgb(58, 82, 53);
   border-radius: 4px;
   padding: 10px;
-
 }
 
 /* liosha */
@@ -88,7 +84,6 @@ img {
   display: flex;
   align-items: center;
 }
-
 
 .gus-title {
   margin-bottom: 20px;
@@ -102,8 +97,6 @@ img {
   font-weight: 400;
   font-size: 24px;
 }
-
-
 
 /* liosha */
 
@@ -136,6 +129,13 @@ img {
   margin-bottom: 10px;
 }
 
+.shogi .link {
+  text-decoration: none;
+  font-size: 15px;
+  font-weight: 400;
+  color: tomato;
+}
+
 /* Nazarii shogi end */
 
 /* serhii */
@@ -151,42 +151,39 @@ img {
   text-align: center;
   font-size: 16px;
   line-height: 1.5;
-  
+
   border-top: 1px solid #000;
 
-  color: #8F95A5;
+  color: #8f95a5;
 }
 .hero-title {
   text-align: center;
   font-weight: 600;
-    font-size: 64px;
-    line-height: 1.25;
-    color: #000000;
+  font-size: 64px;
+  line-height: 1.25;
+  color: #000000;
 }
 .item {
   padding: 15px;
   margin: 2px;
-  background: #F3EBFE;
+  background: #f3ebfe;
   text-align: center;
-  
-    font-size: 24px;
-    line-height: 1.5;
-  
-    color: tomato;
 
+  font-size: 24px;
+  line-height: 1.5;
+
+  color: tomato;
 }
 /* serhii */
 
-
-
-.section-anton { 
+.section-anton {
   width: 1440px;
   display: inline-block;
   margin: 0px auto;
   text-align: center;
- }
+}
 
-.button-pro { 
+.button-pro {
   padding: 10px;
   color: rgb(66, 49, 224);
   background-color: yellow;
@@ -196,10 +193,10 @@ img {
 }
 
 .button-pro:hover,
-.button-pro:focus{
-color: yellow;
-background-color: rgb(66, 49, 224);
-border-color: yellow;
+.button-pro:focus {
+  color: yellow;
+  background-color: rgb(66, 49, 224);
+  border-color: yellow;
 }
 
 .link-ira:hover {
