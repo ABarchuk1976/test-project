@@ -19,6 +19,7 @@ img {
   max-width: 100%;
   height: auto;
 }
+
 /* serhii */
 .container {
   display: flex;
@@ -57,3 +58,42 @@ img {
 
 }
 /* serhii */
+
+
+
+.section-anton { 
+  width: 1440px;
+  display: inline-block;
+  margin: 0px auto;
+  text-align: center;
+ }
+
+.button-pro { 
+  padding: 10px;
+  color: rgb(66, 49, 224);
+  background-color: yellow;
+  border-radius: 4px;
+  border-color: rgb(66, 49, 224);
+  cursor: pointer;
+}
+
+.button-pro:hover,
+.button-pro:focus{
+color: yellow;
+background-color: rgb(66, 49, 224);
+border-color: yellow;
+}
+
+.link-ira:hover {
+  color: brown;
+}
+
+/* andrii */
+.andrii {
+  background-color: violet;
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: 500;
+  font-style: italic;
+}
+/* andrii */
