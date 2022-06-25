@@ -124,7 +124,6 @@ img {
 
 .shogi .text {
   font-size: 15px;
-  font-weight: 400;
   color: gray;
   margin-bottom: 10px;
 }
@@ -132,8 +131,11 @@ img {
 .shogi .link {
   text-decoration: none;
   font-size: 15px;
-  font-weight: 400;
   color: tomato;
+}
+
+.shogi .link:hover {
+  color: teal;
 }
 
 /* Nazarii shogi end */
